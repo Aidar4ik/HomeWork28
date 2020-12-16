@@ -8,7 +8,7 @@ public class Main {
 
         //ListA
         System.out.println("Ввод в лист A");
-        ArrayList<String> namesA=new ArrayList<String>();
+        ArrayList<String> namesA=new ArrayList<>();
 
         //Input
         Scanner inA=new Scanner(System.in);
